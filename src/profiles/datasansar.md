@@ -1,4 +1,0 @@
----
-username: datasansar
-fullname: DataSansar
----

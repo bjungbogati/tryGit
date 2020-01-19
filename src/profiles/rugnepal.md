@@ -1,4 +1,0 @@
----
-username: rugnepal
-fullname: RUGNepal
----

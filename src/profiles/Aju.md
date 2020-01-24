@@ -1,5 +1,4 @@
 ---
-username: csaju
-
+username: Csaju
 fullname: Aju Tamang
 ---

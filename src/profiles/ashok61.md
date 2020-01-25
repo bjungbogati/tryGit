@@ -1,4 +1,4 @@
 ---
-username: ashok61
-fullname: ashok kumar shrestha
+username: ashokstha61
+fullname: Ashok Shrestha
 ---

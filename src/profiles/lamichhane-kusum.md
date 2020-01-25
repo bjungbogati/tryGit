@@ -1,4 +1,4 @@
 ---
 username: lamichhane-kusum
-full name: kusum lamichhane
+fullname: Kusum lamichhane
 ---

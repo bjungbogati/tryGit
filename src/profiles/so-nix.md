@@ -1,4 +1,4 @@
 ---
 username: so-nix
-full name: Swoniga Maharjan
+fullname: Swoniga Maharjan
 ---

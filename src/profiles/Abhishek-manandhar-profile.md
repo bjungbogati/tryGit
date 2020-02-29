@@ -1,4 +1,4 @@
 ---
-username: Abhishek-mananhdhar
+username: Abhishek-manandhar
 fullname: Abhishek Manandhar
 ---

@@ -1,4 +1,4 @@
 ---
-username: bjungbogati
-fullname: Binod Jung Bogati
+username: Asmit77
+fullname: Asmit Adhikari
 ---

@@ -1,4 +1,4 @@
 ---
-username: drishtantr
+username: Drishtantr
 fullname: Drishtant Regmi
 ---

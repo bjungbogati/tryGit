@@ -10,7 +10,7 @@
 1. Friday
 1. Saturday
 
-### Today *is* **Sunday**
+Today *is* **Sunday**
 
 | City | Country |
 | ---- | ------- |

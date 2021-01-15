@@ -9,7 +9,7 @@ const Header = ({ siteTitle }) => (
       <div className="nav">
           <div className="brand-text">{ siteTitle }</div>
           <div className="github-logo">
-              <a target="_blank" href="https://github.com/bjungbogati/tryGit">
+              <a target="_blank" href="https://github.com/bjungbogati">
                   <img alt="github-logo" src={github_logo}/>
               </a>
           </div>

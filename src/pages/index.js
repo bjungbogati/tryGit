@@ -12,12 +12,13 @@ const IndexPage = () => (
     
     <h3>Step 1</h3>
     <p>
-      Visit <a target="_blank" rel="noopener" href="https://github.com/bjungbogati/tryGit">tryGit repository </a> of this project and fork the project to your account. Click on the fork button on the top-right corner of the repository page to do it. After that, GitHub will redirect to the forked copy in your account.
+      Visit <a target="_blank" rel="noopener" href="https://github.com/bjungbogati/tryGit">GitHub repository </a> of this project and fork the project to your account. Click on the fork button on the top-right corner of the repository page to do it. After that, GitHub will redirect to the forked copy in your account.
       <Code code="https://github.com/bjungbogati/tryGit"/>
     </p>
     <h3>Step 2</h3>
     <p>
       Clone the forked repository in your device. Click on the button <b>"Clone or download"</b> and copy the URL of your repository. 
+    <br>
       Open the <a target="_blank" rel="nofollow noopener" href="https://git-scm.com/download/win">Git-bash</a> (terminal with Ctrl+Alt+T) navigate to your desired directory and type the following command. Replace the link with the clone URL of your repository and hit Enter.
       <Code code="git clone https://github.com/MY_USERNAME/tryGit.git"/>
     </p>

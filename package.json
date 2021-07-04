@@ -1,8 +1,8 @@
 {
   "name": "tryGit",
-  "description": "tryGit - Git workshop exercise",
+  "description": "tryGit - Easy way to learn Git",
   "version": "1.0.0",
-  "author": "",
+  "author": "Binod Jung Bogati",
   "dependencies": {
     "gatsby": "^1.9.279",
     "gatsby-link": "^1.6.46",

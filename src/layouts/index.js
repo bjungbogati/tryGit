@@ -14,7 +14,7 @@ const Layout = ({ children, data }) => (
       title={data.site.siteMetadata.title}
       meta={[
         { name: 'description', content: 'Make your first GitHub Pull Request' },
-        { name: 'keywords', content: 'GitHub, Pull Request, First Open Source, Contribution' },
+        { name: 'keywords', content: 'GitHub, PullRequest, First OpenSource, contribution' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1'},
         { name: 'msapplication-TileColor', content: '#603cba'},
         { name: 'theme-color', content: '#261f28'}

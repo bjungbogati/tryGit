@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'GitMe!',
-    author: 'haxzie',
-    profile: 'https://github.com/haxzie',
-    siteUrl: `https://gitme.js.org`
+    title: 'tryGit',
+    author: 'bjungbogati',
+    profile: 'https://github.com/bjungbogati',
+    siteUrl: `https://trygit.js.org`
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -20,7 +20,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "UA-101997744-4",
+        trackingId: "",
         // Puts tracking script in the head instead of the body
         head: true,
         // Setting this parameter is optional

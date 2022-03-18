@@ -1,4 +1,4 @@
 ---
 username: fennand
-fullname:Andrew_Fennell
+fullname: Andrew_Fennell
 ---

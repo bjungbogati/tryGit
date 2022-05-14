@@ -1,4 +1,4 @@
 ---
-username:csbo98
-fullname:csbo98 liu
+username: csbo98
+fullname: bo liu
 ---

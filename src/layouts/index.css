@@ -11,7 +11,9 @@ body {
     padding-bottom: 6rem;
     font-family: 'Varela Round', sans-serif;
     color: #373738;
+    background-color: cyan;
 }
+
 
 .background-hero {
     position: absolute;

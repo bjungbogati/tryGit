@@ -1,4 +1,4 @@
 ---
-username: YOUR_USER_NAME
+username: USERNAME
 fullname: YOUR_FULL_NAME
 ---

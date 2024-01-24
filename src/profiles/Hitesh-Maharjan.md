@@ -1,4 +1,4 @@
 ---
 username: Hitesh-Maharjan
-fullname: Hitesh Maharjan 
+fullname: Hitesh Maharjan
 ---
